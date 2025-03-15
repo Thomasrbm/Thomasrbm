@@ -28,14 +28,11 @@
 ## 🔗 Join me on . . .  
 ---
 
-
 ###
 
 <br clear="both">
 
-<p align="center">
-  <img height="200" src="./profil.png" alt="Profil Picture" />
-</p>
+<img align="right" height="200" src="./profil.png" alt="Profil Picture" />
 
 ###
 
@@ -45,9 +42,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/thomasrbm/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-</a>
-
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
