@@ -31,9 +31,7 @@
 
 <br clear="both">
 
-<p align="center">
-  <img height="200" src="./profil.png" alt="Profil Picture" />
-</p>
+<img align="right" height="200" src="./profil.png" style="margin-right: 20px; margin-left: -100px;" />
 
 ###
 
@@ -44,13 +42,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-###  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/github-contribution-grid-tetris.svg" alt="github-tetris" />
-</p>
 
 ###
