@@ -31,9 +31,7 @@
 
 <br clear="both">
 
-<p align="center">
-  <img height="200" src="./profil.png" alt="Profil Picture" />
-</p>
+<img align="right" height="200" src="./profil.png" style="margin-right: 20px; margin-left: -100px;" />
 
 ###
 
