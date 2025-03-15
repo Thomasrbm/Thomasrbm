@@ -25,7 +25,9 @@
 
 <br clear="both">
 
-<p align="left">Join me on . . .</p>
+## Join me on . . .
+---
+
 
 ###
 
