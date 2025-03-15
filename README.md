@@ -1,4 +1,3 @@
-<h1 align="center">ThomasRBM</h1>
 <h3 align="center">Working progress...</h3>
 
 - 🌱 I’m currently learning **at 42 School**
@@ -9,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thomas robert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas robert" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thomas-r-b1714926b/?lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3bxjo7s2y0r6iwlvfo2us40w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomas-r-b1714926b/?lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3bxjo7s2y0r6iwlvfo2us40w%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
