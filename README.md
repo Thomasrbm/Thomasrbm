@@ -25,7 +25,9 @@
 
 <br clear="both">
 
-<p align="left">Join me on . . .</p>
+## 🔗 Join me on . . .  
+---
+
 
 ###
 
@@ -49,12 +51,3 @@
 </div>
 
 ###
-
-###  
-
-<p align="center">
-  <img src="https://github.com/Thomasrbm/Thomasrbm/blob/output/github-contribution-grid-tetris.svg" alt="github-tetris" />
-</p>
-
-###
-
