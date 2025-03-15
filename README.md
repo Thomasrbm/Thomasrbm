@@ -25,15 +25,15 @@
 
 <br clear="both">
 
-## Join me on . . .
----
-
+<p align="left">Join me on . . .</p>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="./profil.png" style="margin-right: 20px; margin-left: -100px;" />
+<p align="center">
+  <img height="200" src="./profil.png" alt="Profil Picture" />
+</p>
 
 ###
 
@@ -42,7 +42,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/thomasrbm/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+</a>
+
 </div>
 
 ###
+
+###  
+
+<p align="center">
+  <img src="https://github.com/Thomasrbm/Thomasrbm/blob/output/github-contribution-grid-tetris.svg" alt="github-tetris" />
+</p>
+
+###
+
