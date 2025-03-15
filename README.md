@@ -1,4 +1,4 @@
-<h1 align="center">---> ThomasRBM</h1>
+<h1 align="center">ThomasRBM</h1>
 <h3 align="center">Working progress...</h3>
 
 - 🌱 I’m currently learning **at 42 School**
