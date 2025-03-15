@@ -43,12 +43,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
 
+###
+
+###  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ###
