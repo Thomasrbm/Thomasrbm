@@ -32,7 +32,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="./profil.png" alt="Profil Picture" />
 
 ###
 
