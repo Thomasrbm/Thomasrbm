@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-## 🔗 Join me on . . .  
+## 🔗 Contact me on . . .  
 ---
 
 ###
