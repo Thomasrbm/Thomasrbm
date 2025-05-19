@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Thomas Rbm</h2>
+<h2 align="left">Learning code...</h2>
 
 ###
 
