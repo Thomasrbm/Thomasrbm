@@ -1,0 +1,18 @@
+name: GitHub Pac-Man
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # toutes les 12h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-pacman@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
