@@ -1,13 +1,12 @@
-# .github/workflows/pacman.yml
 name: GitHub Pac-Man
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # toutes les 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # nécessaire pour committer le SVG généré
+  contents: write
 
 jobs:
   pacman:
@@ -21,7 +20,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@v1.2.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # options possibles (facultatif) :
-          # username: Thomasrbm
-          # output_path: output/github-contribution-grid-pacman.svg
-          # theme: dark
+          # output_path: output/pacman-contribution-graph.svg   # (optionnel)
+          # theme: github-dark                                  # (optionnel)
+          # username: Thomasrbm                                 # (optionnel : par défaut repo owner)
