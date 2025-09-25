@@ -34,6 +34,3 @@
          width="47" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-
-</div>
