@@ -53,6 +53,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation" />
+</div>
+
+---
 ## 🔥 En ce moment
 - 🔨 Développement d’un projet en **C++**  
 - ⚡ Expérimentations avec **React** et **TypeScript**  
