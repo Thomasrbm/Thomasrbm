@@ -1,18 +1,12 @@
-name: GitHub Pac-Man
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # toutes les 12h
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
 jobs:
-  build:
+  pacman:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: abozanona/pacman-contribution-graph@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: GitHub Pac-Man
+        uses: abozanona/pacman-contribution-graph@v1.2.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
