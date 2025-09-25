@@ -1,26 +1,31 @@
-name: GitHub Pac-Man
+name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # toutes les 12h
+    - cron: "0 */24 * * *"   # 1 fois / 24h
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  pacman:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph
         with:
-          node-version: '18'
-      - name: Generate Pac-Man graph
-        uses: abozanona/pacman-contribution-graph@v1.2.0
+          github_user_name: ${{ github.repository_owner }}
+          # options possibles :
+          # gameTheme: github-dark
+          # output: svg
+
+      # Publie les fichiers générés (dans /dist) vers la branche "output"
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: Thomasrbm
-          platform: github
-          theme: github-dark
-          output: svg
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
