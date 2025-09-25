@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-pacman@main
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: abozanona/pacman-contribution-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
