@@ -1,4 +1,4 @@
-<h2 align="left">Learning code . . . </h2>
+<h2 align="left">Learning technologies : </h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-## 🔗 Contact me on . . .  
+## 🔗 Contact me on : 
 ---
 
 ###
