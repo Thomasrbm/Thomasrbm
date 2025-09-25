@@ -25,13 +25,15 @@
 <br clear="both">
 
 <div align="left">
-  <!-- Lien vers ta page Discord perso (via GitHub Pages) -->
-  <a href="https://tonpseudo.github.io/discord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo" />
+  <a href="#" title="Discord : thomasrob.#0064">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+         width="47" height="35" alt="discord logo" />
   </a>
-  
-  <!-- Lien LinkedIn -->
+
   <a href="https://www.linkedin.com/in/thomasrbm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="47" height="35" alt="linkedin logo" />
   </a>
+</div>
+
 </div>
