@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+love+coding+in+C+and+React;Currently+learning+Docker+%26+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Coding+in+C+and+C++;Currently+learning+Docker+%26+TypeScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -49,11 +49,9 @@
 - 🎓 Étudiant en informatique (2023 - aujourd’hui)  
 - 🚀 Découverte du C, Bash, Linux  
 - 🐳 Actuellement en train d’explorer Docker + React  
-- 🌱 Objectif : devenir développeur fullstack  
+- 🌱 Objectif : ...
 
 ---
-
-## 🎮 Pac-Man Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph in dark mode" />
