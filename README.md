@@ -60,9 +60,8 @@
 
 ---
 ## 🔥 En ce moment
-- 🔨 Développement d’un projet en **C++**  
-- ⚡ Expérimentations avec **React** et **TypeScript**  
-- 🐳 Mise en place de **Docker**  
+- 🔨 Développement de projets en **C++**  
+- 🐳 Expérimentations avec **Docker** et **TypeScript**  
 
 ---
 
