@@ -49,7 +49,7 @@
 - 🎓 Étudiant en informatique (2023 - aujourd’hui)  
 - 🚀 Découverte du C, Bash, Linux  
 - 🐳 Actuellement en train d’explorer Docker + React  
-- 🌱 Objectif : ...
+- 🌱 Objectif : cybersécurité
 
 ---
 
