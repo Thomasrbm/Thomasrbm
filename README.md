@@ -1,101 +1,97 @@
-<!-- Banner animée -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&section=header&text=Hey,%20I'm%20Thomasrbm%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</div>
+<h1 align="left">Hey, I'm Thomas 👋</h1>
 
----
+<p align="left">
+  CS student at <a href="https://42.fr">École 42</a> · Paris, France<br/>
+  Systems programming, low-level engineering, and applied security.
+</p>
 
-<!-- Typing animation -->
-<div align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Coding+in+C+and+Cpp+;Currently+learning+Docker+%26+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=7B68EE&width=520&lines=From+kernels+to+network+tooling.;C%2C+C%2B%2B%2C+Rust+%E2%80%94+and+everything+below+the+OS.;Currently+exploring+cybersecurity+and+GPU+compute." alt="typing" />
   </a>
-</div>
+</p>
 
 ---
 
-<h2 align="left">🚀 Learning technologies :</h2>
+## 🛠️ Featured Projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-</div>
+> A few things I've built that I'm proud of. Each one taught me something I couldn't have learned from a tutorial.
 
----
+### 🧠 [KFS](https://github.com/Thomasrbm) — *Kernel From Scratch*
+Bare-metal x86 32-bit kernel written in C and NASM. VGA text mode driver, GDT with flat segmentation, PS/2 keyboard input, scrollback buffer, and a custom shell (`kash`).
+**Stack:** C · NASM · GRUB · QEMU
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🐧 [LFS](https://github.com/Thomasrbm) — *Linux From Scratch*
+Built a working Linux distribution from source — toolchain, kernel, init system, the whole stack — to understand what actually lives under `/`.
+**Stack:** GNU toolchain · Bash · Linux kernel
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thomasrbm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomasrbm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🪓 [Woody Woodpacker](https://github.com/Thomasrbm) — *ELF Packer*
+ELF64 binary packer that injects an encrypted payload into a target executable and decrypts it at runtime. Hands-on intro to binary format internals and code injection.
+**Stack:** C · ELF64 · x86_64 assembly
+
+### 📡 [ft_malcolm](https://github.com/Thomasrbm) — *ARP Spoofer*
+ARP cache poisoning tool built on raw sockets. MITM positioning on a LAN — useful for understanding why ARP is fundamentally broken.
+**Stack:** C · raw sockets · Linux networking
+
+### 🌐 [ft_ping](https://github.com/Thomasrbm) — *ICMP Echo from scratch*
+Reimplementation of `ping`: raw ICMP sockets, signal handling, RTT statistics (min/avg/max/mdev), TTL handling. A small project that touches a surprising amount of the network stack.
+**Stack:** C · ICMP · POSIX signals
 
 ---
 
-## 🛤️ Mon parcours
-- 🎓 Étudiant en informatique (2023 - aujourd’hui)  
-- 🚀 Découverte du C, Bash, Linux  
-- 🐳 Actuellement en train d’explorer Docker + React  
-- 🌱 Objectif : cybersécurité
+## ⚙️ Stack
+
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square&logo=gnu&logoColor=white)
+
+**Systems & Tooling**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Graphics & Web**
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph in dark mode" />
-</div>
+## 🔥 Currently
 
-
----
-## 🔥 En ce moment
-- 🔨 Développement de projets en **C++**  
-- 🐳 Expérimentations avec **Docker** et **TypeScript**  
+- Building a **Bomberman clone in Rust + OpenGL** (no engine, raw GL)
+- Working through 42's **cybersecurity track** — offensive tooling, CTFs, crypto
+- Exploring **GPU compute & inference infrastructure**
 
 ---
 
-## 🛠️ Tools I use
-<div align="center">
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
----
-
-## 🔗 Contact me on :
-<br clear="both">
+## 📊 Stats
 
 <div align="left">
-  <a href="https://Thomasrbm.github.io/" title="Discord : thomasrob.#0064">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-         width="47" height="35" alt="Discord" />
-  </a>
-  <a href="https://www.linkedin.com/in/thomasrbm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="47" height="35" alt="linkedin logo" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Thomasrbm&theme=dracula&hide_border=true&background=00000000" height="160" alt="streak" />
 </div>
 
 ---
 
-<!-- Footer -->
+## 🎮 Contributions
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Thomasrbm/Thomasrbm/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
 </div>
+
+---
+
+## 📬 Reach out
+
+<a href="https://www.linkedin.com/in/thomasrbm/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://Thomasrbm.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
