@@ -17,23 +17,23 @@
 
 <p align="center"><i>A few things I've built that I'm proud of. Each one taught me something I couldn't have learned from a tutorial.</i></p>
 
-### 🧠 [KFS](https://github.com/Thomasrbm) — *Kernel From Scratch*
+### 🧠 [KFS](https://github.com/Thomasrbm/Kernel_From_Scratch_KFS_42) — *Kernel From Scratch*
 Bare-metal x86 32-bit kernel written in C and NASM. VGA text mode driver, GDT with flat segmentation, PS/2 keyboard input, scrollback buffer, and a custom shell (`kash`).
 **Stack:** C · NASM · GRUB · QEMU
 
-### 🐧 [LFS](https://github.com/Thomasrbm) — *Linux From Scratch*
+### 🐧 [LFS](https://github.com/Thomasrbm/ft_Linux_42) — *Linux From Scratch*
 Built a working Linux distribution from source — toolchain, kernel, init system, the whole stack — to understand what actually lives under `/`.
 **Stack:** GNU toolchain · Bash · Linux kernel
 
-### 🪓 [Woody Woodpacker](https://github.com/Thomasrbm) — *ELF Packer*
+### 🪓 [Woody Woodpacker](https://github.com/Thomasrbm/woody_woodpacker) — *ELF Packer*
 ELF64 binary packer that injects an encrypted payload into a target executable and decrypts it at runtime. Hands-on intro to binary format internals and code injection.
 **Stack:** C · ELF64 · x86_64 assembly
 
-### 📡 [ft_malcolm](https://github.com/Thomasrbm) — *ARP Spoofer*
+### 📡 [ft_malcolm](https://github.com/Thomasrbm/ft_Malcolm_42) — *ARP Spoofer*
 ARP cache poisoning tool built on raw sockets. MITM positioning on a LAN — useful for understanding why ARP is fundamentally broken.
 **Stack:** C · raw sockets · Linux networking
 
-### 🌐 [ft_ping](https://github.com/Thomasrbm) — *ICMP Echo from scratch*
+### 🌐 [ft_ping](https://github.com/Thomasrbm/ft_Ping_42) — *ICMP Echo from scratch*
 Reimplementation of `ping`: raw ICMP sockets, signal handling, RTT statistics (min/avg/max/mdev), TTL handling. A small project that touches a surprising amount of the network stack.
 **Stack:** C · ICMP · POSIX signals
 
