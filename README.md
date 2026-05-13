@@ -114,7 +114,7 @@ Reimplementation of `ping`: raw ICMP sockets, signal handling, RTT statistics (m
   <a href="https://www.linkedin.com/in/thomasrbm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://Thomasrbm.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=githubpages&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/thomasrob." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7B68EE?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
