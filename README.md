@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thomas 👋</h1>
 
 <p align="center">
-  CS student at <a href="https://42.fr">École 42</a> · Paris, France<br/>
+  CS student at <a href="https://42.fr">École 42</a> · Le Havre (76), France<br/>
   Systems programming, low-level engineering, and applied security.
 </p>
 
