@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thomas 👋</h1>
 
 <p align="center">
-  CS student at <a href="https://42.fr">École 42</a> · Le Havre (76), France<br/>
+  CS student at <a href="https://42.fr">École 42</a> · Paris, France<br/>
   Systems programming, low-level engineering, and applied security.
 </p>
 
@@ -95,7 +95,7 @@ Reimplementation of `ping`: raw ICMP sockets, signal handling, RTT statistics (m
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thomasrbm&theme=dracula&hide_border=true&background=00000000" height="160" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Thomasrbm&theme=dracula&hide_border=true&background=00000000&count_private=true" height="160" alt="streak" />
 </div>
 
 ---
@@ -115,6 +115,6 @@ Reimplementation of `ping`: raw ICMP sockets, signal handling, RTT statistics (m
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://Thomasrbm.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=githubpages&logoColor=white" alt="Discord" />
   </a>
 </p>
