@@ -85,7 +85,7 @@ Reimplementation of `ping`: raw ICMP sockets, signal handling, RTT statistics (m
 <h2 align="center">🔥 Currently</h2>
 
 <p align="center">
-  Building a <b>Bomberman clone in Rust + OpenGL</b> (no engine, raw GL)<br/>
+  Working on </b> Active Directory <br/>
   Working through 42's <b>cybersecurity track</b> — offensive tooling, CTFs, crypto<br/>
   Exploring <b>CI/CD, Network, Deployement</b>
 </p>
