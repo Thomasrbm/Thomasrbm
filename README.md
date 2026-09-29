@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Thomas — Infrastructure & DevOps Engineer 👋</h1>
+<h1 align="center">Hey, I'm Thomas — Infrastructure & DevOps learner 👋</h1>
 
 <p align="center">
   CS student at <a href="https://42.fr">École 42</a> · Le Havre (76), France<br/>
