@@ -21,10 +21,6 @@
 Multi-node K3s cluster provisioned on Vagrant VMs, three apps routed by a Traefik Ingress, then K3d + Argo CD: a `git push` is the only deploy command. Bonus: GitLab self-hosted inside the cluster.
 **Stack:** Kubernetes · K3s · K3d · Argo CD · Vagrant · GitLab
 
-### ☁️ [Cloud-1](https://github.com/Thomasrbm/Cloud-1) — *Automated cloud deployment*
-Takes a bare AWS EC2 instance to a TLS-terminated WordPress stack in one command: nine idempotent Ansible roles, one Docker Compose file per component, every secret in Ansible Vault.
-**Stack:** Ansible · Docker Compose · AWS EC2 · nginx · UFW
-
 ### 🌐 [BADASS](https://github.com/Thomasrbm/BADASS_42) — *BGP EVPN / VXLAN fabric*
 Data-center fabric in GNS3: OSPF underlay, MP-BGP EVPN control plane with a route reflector, VXLAN VTEPs learning MAC addresses without flooding.
 **Stack:** FRRouting · BGP · OSPF · VXLAN · GNS3 · Docker
